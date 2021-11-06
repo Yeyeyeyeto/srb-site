@@ -976,3 +976,18 @@ a.ui-btn {
   background: url(../images/progressBar2.png) no-repeat;
   background-position: -610px -40px;
 }
+
+
+
+.banner-img {
+  height: 365px;
+  width: 100%;
+  /*background-color: pink;*/
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.banner-img a img {
+  width: 100%;
+  margin: -420px 0px;
+}

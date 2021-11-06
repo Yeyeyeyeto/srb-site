@@ -2,7 +2,7 @@
   <header>
     <div class="header-top min-width">
       <div class="container fn-clear">
-        <strong class="fn-left">
+<!--         <strong class="fn-left">
           咨询热线：400-000-0000
           <span class="s-time">服务时间：9:00 - 18:00</span>
         </strong>
@@ -20,7 +20,7 @@
               <b class="ico_head_sina"></b>
             </a>
           </li>
-        </ul>
+        </ul> -->
 
         <!-- 用户未登录 -->
         <ul v-if="!userInfo" class="fn-right header-top-ul">
@@ -81,7 +81,7 @@
       <div class="container">
         <div class="fn-left logo">
           <NuxtLink to="/">
-            <img src="~/assets/images/logo.png" title="" />
+            <img src="~/assets/images/logo.png" title="" style="height: 65px" />
           </NuxtLink>
         </div>
         <ul class="top-nav fn-clear">

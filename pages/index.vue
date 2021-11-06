@@ -1,6 +1,6 @@
 <template>
   <main>
-    <div>
+    <div class="banner-img">
       <a target="_blank" href="/">
         <img src="~/assets/images/banner.jpg" />
       </a>

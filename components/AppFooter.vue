@@ -2,6 +2,7 @@
   <!--网站底部-->
   <div id="footer" class="ft">
     <div class="ft-inner clearfix">
+
       <div class="ft-helper clearfix">
         <dl>
           <dt>关于我们</dt>
@@ -39,7 +40,7 @@
               官方交流群:<em>12345678</em><br />
               工作日 9:00-22:00 / 周六 9:00-18:00<br />
             </p>
-            <div class="ft-serv-handle clearfix">
+<!--             <div class="ft-serv-handle clearfix">
               <a
                 class="icon-hdSprite icon-ft-sina a-move a-moveHover"
                 title="尚融宝新浪微博"
@@ -64,23 +65,25 @@
                 target="_blank"
                 href="mailto:xz@shangrongbao.com"
               ></a>
-            </div>
+            </div> -->
           </dd>
         </dl>
       </div>
       <div class="ft-wap clearfix">
         <dl>
-          <dt>官方二维码</dt>
+          <!-- <dt>官方二维码</dt> -->
           <dd>
             <span class="icon-ft-erweima">
-              <img src="~/assets/images/code.png" style="display: inline;" />
+              <img src="~/assets/images/code.png" style="display: inline;height: 150px;" />
             </span>
           </dd>
         </dl>
       </div>
+
     </div>
+
     <div class="ft-record">
-      <div class="ft-approve clearfix">
+<!--       <div class="ft-approve clearfix">
         <a class="icon-approve approve-0 fadeIn-2s" target="_blank" href="#">
         </a>
         <a class="icon-approve approve-1 fadeIn-2s" target="_blank" href="#">
@@ -89,16 +92,17 @@
         </a>
         <a class="icon-approve approve-3 fadeIn-2s" target="_blank" href="#">
         </a>
-      </div>
+      </div> -->
       <div class="ft-identity">
-        ©2020 尚融宝 All rights reserved&nbsp;&nbsp;&nbsp;
+        ©2021 枝江金融 All rights reserved&nbsp;&nbsp;&nbsp;
         <span class="color-e6">|</span>&nbsp;&nbsp;&nbsp;
-        北京市尚融宝投资管理有限公司&nbsp;&nbsp;&nbsp;
+        枝江市枝江金融投资管理有限公司&nbsp;&nbsp;&nbsp;
         <span class="color-e6">|</span>&nbsp;&nbsp;&nbsp;
         <a target="_blank" href="http://www.miitbeian.gov.cn/">
           京ICP备12345678号-1
         </a>
       </div>
     </div>
+
   </div>
 </template>
